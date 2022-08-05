@@ -1,0 +1,4 @@
+tester:
+  name: testUser01
+  email: s.miyamoto@atomitech.jp
+  password_digest: <%= User.digest('password') %>
