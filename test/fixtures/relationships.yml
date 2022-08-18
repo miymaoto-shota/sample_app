@@ -1,0 +1,15 @@
+one:
+  follower: tester01
+  followed: tester03
+
+two:
+  follower: tester01
+  followed: tester04
+
+three:
+  follower: tester03
+  followed: tester01
+
+three:
+  follower: tester02
+  followed: tester01
